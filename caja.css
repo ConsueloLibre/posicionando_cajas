@@ -1,0 +1,22 @@
+.contenedor{
+  position: relative;
+  background: red;
+  width: 400px;
+  height: 400px;
+}
+.caja_1{
+position: absolute;
+top:70px;
+left: 70px;
+background: purple;
+width: 250px;
+height: 250px;
+}
+.caja_2{
+  position: absolute;
+  top: 70px;
+  left: 70px;
+  background: yellow;
+  width: 130px;
+  height: 130px;
+}
